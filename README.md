@@ -7,13 +7,13 @@ https://github.com/MohamedHussien991999/Smart_Vision/assets/93053169/6ee97221-55
 
 ##   B) Tools 
 
-1)State management using bloc(cubit)
+1) State management using bloc(cubit)
 
-2)Api using dio
+2) Api using dio
 
-3)Shared preference
+3) Shared preference
 
-4)bloc provider
+4) bloc provider
 
 5) flutter_svg
 
@@ -23,7 +23,7 @@ https://github.com/MohamedHussien991999/Smart_Vision/assets/93053169/6ee97221-55
 
 8) image_picker
 
-9)stylish_bottom_bar
+9) stylish_bottom_bar
 
 10) http_parser
 
