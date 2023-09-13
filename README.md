@@ -13,33 +13,33 @@ https://github.com/MohamedHussien991999/Smart_Vision/assets/93053169/6ee97221-55
 
 3) Shared preference
 
-4) bloc provider
+4) Bloc provider
 
-5) flutter_svg
+5) Flutter_svg
 
-6) font_awesome_flutter
+6) Font_awesome_flutter
 
-7) flutter_lints
+7) Flutter_lints
 
-8) image_picker
+8) Image_picker
 
-9) stylish_bottom_bar
+9) Stylish_bottom_bar
 
-10) http_parser
+10) Http_parser
 
-11) chewie
+11) Chewie
 
-12) smooth_page_indicator
+12) Smooth_page_indicator
 
-13) conditional_builder_null_safety
+13) Conditional_builder_null_safety
 
-14) babstrap_settings_screen
+14) Babstrap_settings_screen
 
-15) path_provider
+15) Path_provider
 
-16) fluttertoast
+16) Fluttertoast
 
-17_ flutter_launcher_icons
+17) Flutter_launcher_icons
 
 ## C) Features
 • On Boarding Screen
